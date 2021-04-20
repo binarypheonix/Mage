@@ -1,0 +1,12 @@
+[package]
+name = "mage"
+version = "0.1.0"
+authors = ["binarypheonix <21365550+binarypheonix@users.noreply.github.com>"]
+edition = "2018"
+description = "A Markdown-to-Html Generator, in Rust."
+homepage = "https://binarypheonix.com/mage"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
