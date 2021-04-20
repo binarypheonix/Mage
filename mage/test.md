@@ -1,15 +1,15 @@
-# My favorite author
+# What is Mage?
 
-This is a report about my favorite writer. His name is Jesse Lawson.
+Mage is the result of an attempt by binarypheonix to create a simple, small footprint markdown to html compiler in Rust.
 
-# Jesse's favorite food
+# What Can Mage do?
 
-Jesse really likes enchiladas and any kind of sushi. 
+Mage is currently only capable of parsing headers (h1) and paragraphs, but more features will be added to it in the future.
 
-# Jesse's favorite drink
+# What Features?
 
-Jesse likes to drink coffee in the mornings and iced tea throughout the day. Sometimes, he even drinks water. 
+Some of the features will include support for tags like a, b, i, ul/li, img etc.
 
-# Jesse's favorite hobbies
+# Who is binarypheonix
 
-Jesse likes to write about computer programming and game design, and when he is not hunched over a computer, you can find him out on a run and listening to a podcast or the serenity of mother nature. 
+binarypheonix is a random guy on the internet trying to understand how technology works, by building it. He is interested in System level projects, Machine Learning, The next Web, Decentralised Technologies, Computational Neuroscience, Theoretical Computer Science etc. among other things. Visit https://binarypheonix.com to find more about him!
